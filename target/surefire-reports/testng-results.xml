@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-05-25T20:48:03 IST" name="Suite" finished-at="2022-05-25T20:48:04 IST" duration-ms="97">
+    <groups>
+    </groups>
+    <test started-at="2022-05-25T20:48:03 IST" name="Test" finished-at="2022-05-25T20:48:04 IST" duration-ms="97">
+      <class name="Maven_package.App">
+        <test-method signature="appium()[pri:0, instance:Maven_package.App@7c711375]" started-at="2022-05-25T20:48:03 IST" name="appium" finished-at="2022-05-25T20:48:04 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- appium -->
+      </class> <!-- Maven_package.App -->
+      <class name="Maven_package.Selenium_JavaTest">
+        <test-method signature="SelJava()[pri:0, instance:Maven_package.Selenium_JavaTest@741a8937]" started-at="2022-05-25T20:48:03 IST" name="SelJava" finished-at="2022-05-25T20:48:03 IST" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SelJava -->
+      </class> <!-- Maven_package.Selenium_JavaTest -->
+      <class name="Maven_package.AppiumTest">
+        <test-method signature="appium()[pri:0, instance:Maven_package.AppiumTest@57cf54e1]" started-at="2022-05-25T20:48:04 IST" name="appium" finished-at="2022-05-25T20:48:04 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- appium -->
+      </class> <!-- Maven_package.AppiumTest -->
+      <class name="Maven_package.AppTest">
+        <test-method signature="shouldAnswerWithTrue()[pri:0, instance:Maven_package.AppTest@5a56cdac]" started-at="2022-05-25T20:48:03 IST" name="shouldAnswerWithTrue" finished-at="2022-05-25T20:48:03 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shouldAnswerWithTrue -->
+      </class> <!-- Maven_package.AppTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
